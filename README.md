@@ -43,4 +43,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Umesh-1651/LeetCode/tree/master/0412-fizz-buzz) |
+## Array
+|  |
+| ------- |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Umesh-1651/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+## Greedy
+|  |
+| ------- |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Umesh-1651/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+## Sorting
+|  |
+| ------- |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Umesh-1651/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 <!---LeetCode Topics End-->
