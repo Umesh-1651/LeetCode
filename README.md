@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Umesh-1651/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Umesh-1651/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Greedy
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Umesh-1651/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Umesh-1651/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Hash Table
 |  |
@@ -73,8 +75,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Umesh-1651/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Umesh-1651/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Binary Tree
 |  |
 | ------- |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Umesh-1651/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Umesh-1651/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 <!---LeetCode Topics End-->
