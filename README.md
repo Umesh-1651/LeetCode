@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Umesh-1651/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0412-fizz-buzz](https://github.com/Umesh-1651/LeetCode/tree/master/0412-fizz-buzz) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/Umesh-1651/LeetCode/tree/master/2325-number-of-ways-to-select-buildings) |
+| [3617-find-the-original-typed-string-i](https://github.com/Umesh-1651/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Umesh-1651/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Dynamic Programming
 |  |
