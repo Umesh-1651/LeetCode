@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0326-power-of-three](https://github.com/Umesh-1651/LeetCode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Umesh-1651/LeetCode/tree/master/0412-fizz-buzz) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Umesh-1651/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/Umesh-1651/LeetCode/tree/master/0326-power-of-three) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Umesh-1651/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## String
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Umesh-1651/LeetCode/tree/master/0412-fizz-buzz) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Umesh-1651/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Array
 |  |
 | ------- |
@@ -93,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Umesh-1651/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Umesh-1651/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
