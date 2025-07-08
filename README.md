@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0747-min-cost-climbing-stairs](https://github.com/Umesh-1651/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/Umesh-1651/LeetCode/tree/master/2325-number-of-ways-to-select-buildings) |
 ## Prefix Sum
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Umesh-1651/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Umesh-1651/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0747-min-cost-climbing-stairs](https://github.com/Umesh-1651/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Umesh-1651/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Umesh-1651/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Umesh-1651/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
