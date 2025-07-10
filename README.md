@@ -6,12 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0326-power-of-three](https://github.com/Umesh-1651/LeetCode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Umesh-1651/LeetCode/tree/master/0412-fizz-buzz) |
+| [1013-fibonacci-number](https://github.com/Umesh-1651/LeetCode/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Umesh-1651/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Umesh-1651/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/Umesh-1651/LeetCode/tree/master/0326-power-of-three) |
+| [1013-fibonacci-number](https://github.com/Umesh-1651/LeetCode/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Umesh-1651/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## String
 |  |
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0747-min-cost-climbing-stairs](https://github.com/Umesh-1651/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/Umesh-1651/LeetCode/tree/master/1013-fibonacci-number) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/Umesh-1651/LeetCode/tree/master/2325-number-of-ways-to-select-buildings) |
 ## Prefix Sum
 |  |
@@ -127,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Umesh-1651/LeetCode/tree/master/0503-next-greater-element-ii) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Umesh-1651/LeetCode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
