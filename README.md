@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/Umesh-1651/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Umesh-1651/LeetCode/tree/master/1013-fibonacci-number) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/Umesh-1651/LeetCode/tree/master/2325-number-of-ways-to-select-buildings) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Umesh-1651/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Umesh-1651/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Umesh-1651/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Umesh-1651/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Umesh-1651/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Greedy
 |  |
 | ------- |
