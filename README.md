@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/Umesh-1651/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Umesh-1651/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Umesh-1651/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3918-check-divisibility-by-digit-sum-and-product](https://github.com/Umesh-1651/LeetCode/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## Recursion
 |  |
 | ------- |
