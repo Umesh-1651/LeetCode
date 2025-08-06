@@ -47,12 +47,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Umesh-1651/LeetCode/tree/master/0112-path-sum) |
 | [0547-number-of-provinces](https://github.com/Umesh-1651/LeetCode/tree/master/0547-number-of-provinces) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Umesh-1651/LeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Umesh-1651/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Umesh-1651/LeetCode/tree/master/0112-path-sum) |
 | [0547-number-of-provinces](https://github.com/Umesh-1651/LeetCode/tree/master/0547-number-of-provinces) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Umesh-1651/LeetCode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Umesh-1651/LeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Umesh-1651/LeetCode/tree/master/0112-path-sum) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Umesh-1651/LeetCode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Umesh-1651/LeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Umesh-1651/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Umesh-1651/LeetCode/tree/master/0112-path-sum) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Umesh-1651/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Two Pointers
 |  |
