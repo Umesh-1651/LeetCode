@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Umesh-1651/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Umesh-1651/LeetCode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Umesh-1651/LeetCode/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/Umesh-1651/LeetCode/tree/master/1013-fibonacci-number) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Umesh-1651/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Umesh-1651/LeetCode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/Umesh-1651/LeetCode/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Umesh-1651/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Umesh-1651/LeetCode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Umesh-1651/LeetCode/tree/master/0231-power-of-two) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Umesh-1651/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Umesh-1651/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Design
