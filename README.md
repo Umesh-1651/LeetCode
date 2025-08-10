@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Umesh-1651/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Umesh-1651/LeetCode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Umesh-1651/LeetCode/tree/master/0412-fizz-buzz) |
+| [0900-reordered-power-of-2](https://github.com/Umesh-1651/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/Umesh-1651/LeetCode/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Umesh-1651/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Umesh-1651/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Umesh-1651/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0900-reordered-power-of-2](https://github.com/Umesh-1651/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Umesh-1651/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Umesh-1651/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Umesh-1651/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Umesh-1651/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/Umesh-1651/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0900-reordered-power-of-2](https://github.com/Umesh-1651/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/Umesh-1651/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Umesh-1651/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/Umesh-1651/LeetCode/tree/master/1813-maximum-erasure-value) |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Umesh-1651/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0900-reordered-power-of-2](https://github.com/Umesh-1651/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Umesh-1651/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Umesh-1651/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Tree
@@ -191,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Umesh-1651/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Enumeration
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/Umesh-1651/LeetCode/tree/master/0900-reordered-power-of-2) |
 <!---LeetCode Topics End-->
