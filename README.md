@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Umesh-1651/LeetCode/tree/master/0039-combination-sum) |
 | [0118-pascals-triangle](https://github.com/Umesh-1651/LeetCode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Umesh-1651/LeetCode/tree/master/0136-single-number) |
 | [0503-next-greater-element-ii](https://github.com/Umesh-1651/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -199,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/Umesh-1651/LeetCode/tree/master/0900-reordered-power-of-2) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Umesh-1651/LeetCode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
