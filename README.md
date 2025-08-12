@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Umesh-1651/LeetCode/tree/master/0039-combination-sum) |
+| [0088-merge-sorted-array](https://github.com/Umesh-1651/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Umesh-1651/LeetCode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Umesh-1651/LeetCode/tree/master/0136-single-number) |
 | [0503-next-greater-element-ii](https://github.com/Umesh-1651/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Umesh-1651/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/Umesh-1651/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/Umesh-1651/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Umesh-1651/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Umesh-1651/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0088-merge-sorted-array](https://github.com/Umesh-1651/LeetCode/tree/master/0088-merge-sorted-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Umesh-1651/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Umesh-1651/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Sliding Window
