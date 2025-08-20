@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Umesh-1651/LeetCode/tree/master/0118-pascals-triangle) |
 | [0747-min-cost-climbing-stairs](https://github.com/Umesh-1651/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Umesh-1651/LeetCode/tree/master/1013-fibonacci-number) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Umesh-1651/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/Umesh-1651/LeetCode/tree/master/2325-number-of-ways-to-select-buildings) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Umesh-1651/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Prefix Sum
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/Umesh-1651/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0940-fruit-into-baskets](https://github.com/Umesh-1651/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Umesh-1651/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Umesh-1651/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Umesh-1651/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Umesh-1651/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1813-maximum-erasure-value](https://github.com/Umesh-1651/LeetCode/tree/master/1813-maximum-erasure-value) |
@@ -210,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Umesh-1651/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Umesh-1651/LeetCode/tree/master/0039-combination-sum) |
+## Matrix
+|  |
+| ------- |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Umesh-1651/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
